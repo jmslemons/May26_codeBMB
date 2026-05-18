@@ -18,8 +18,8 @@ A workshop for BMB faculty and fans interested in incorporating Python and codin
 |----|----|----|----|----|
 | Time | Duration | Topic | Notebook | Notes |
 | 1:00 | 10 min | Welcome, introductions, poll | — | What do you hope to do with coding? |
-| 1:20 | 15 min | Pedagogical basis of coding | — | Why does coding matter in life sciences? |
-| 1:30 | 30 min | GitHub basics | — | Fork a repo, open notebook from GitHub |
+| 1:10 | 15 min | Pedagogical basis of coding | — | Why does coding matter in life sciences? |
+| 1:25 | 30 min | GitHub basics | — | Fork a repo, open notebook from GitHub |
 | 1:55 | 20 min | Intro to Colab and Google Drive | 001 | Save copy, run first cell, text vs code cells |
 | 2:20 | 15 min | Break + Q&A | — | Instructors circulate, answer setup questions |
 | 2:35 | 35 min | Python basics: variables, loops, logic | 002 | MM equation as running example |
